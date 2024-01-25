@@ -1,0 +1,26 @@
+body {
+    background-color: #2D3250;
+}
+
+
+h1 {
+    color: #F6B17A;
+
+}
+
+div {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    background-color: #7077A1;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+    padding: 0.9rem;
+    font-size: 1.2rem;
+}
